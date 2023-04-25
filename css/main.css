@@ -305,7 +305,7 @@ font-size: 14px;color: #000;text-align: center;line-height: 40px;transition: all
 .content1>ul>li span>img:nth-of-type(1){opacity: 1;}
 
 .content1>ul>li dt{font-size: 18px; color: #000;}
-.content1>ul>li dd{font-size: 14px;padding-top: 5px;color: 555;}
+.content1>ul>li dd{font-size: 14px;padding-top: 5px;color: #555;}
 
 
 /* content2 */
@@ -552,7 +552,7 @@ font-size: 14px;color: #000;text-align: center;line-height: 40px;transition: all
   .content1>ul>li span>img:nth-of-type(1){opacity: 1;}
 
   .content1>ul>li dt{font-size: 18px; color: #000;}
-  .content1>ul>li dd{font-size: 14px;padding-top: 5px;color: 555;}
+  .content1>ul>li dd{font-size: 14px;padding-top: 5px;color: #555;}
   
 
   /* content2 */
